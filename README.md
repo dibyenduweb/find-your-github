@@ -2,13 +2,11 @@
 
 🔍 **Project Purpose**: Find GitHub users and track your own activity
 
-🎨 **Design Tools**: Figma, Photoshop
+🎨 **Design Tools**: Figma
 
-💻 **Tech Stack**: HTML, CSS, JS, jQuery, Bootstrap, API, React, GitHub API
+💻 **Tech Stack**: HTML, CSS, JS, Bootstrap, API, React, GitHub API
 
 🌐 **Project Live Location**: [GitHub Profile Finder](https://github-account-finder1.netlify.app/)
-
-🙌 Thanks for exploring this project!
 
 🚀 **Key Features**:
 
@@ -28,3 +26,5 @@ Discover more of our fantastic projects at [Dibyendu Portfolio](https://dibyendu
 #GitHubProfileFinder #GitHubDiscovery #TechProject #WebDevelopment #GitHubAPI #ReactApp #UserProfiles #CodingJourney #OpenSource #WebDesign #GitHubActivities #ExploreTech #Programming
 
 Feel free to use these elements to create an eye-catching and attractive README file for your GitHub Profile Finder project! 🌟
+
+
